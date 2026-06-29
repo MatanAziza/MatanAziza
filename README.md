@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matan</h1>
 <h3 align="center">A Casual Games Modder and 42 Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matanaziza" alt="matanaziza" /></a> </p>
-
 - 🔭 I’m currently working on [my 42 Common Core (Threading atm)](https://github.com/MatanAziza/42-Common-Core)
 
 - 🌱 I’m currently learning **about LLMS, AI and threading**
@@ -21,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matan aziza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matan aziza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matan-aziza-0237b7297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matan aziza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
