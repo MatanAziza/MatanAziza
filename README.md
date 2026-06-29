@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **matan.aziza@learner.42.tech**
 
-- 📄 Know about my experiences [https://shorturl.at/vnEB5](https://shorturl.at/vnEB5)
+- 📄 Know about my experiences [here](https://shorturl.at/vnEB5)
 
 - ⚡ Fun fact **I love Greek Mythology, and speedrun Hades (the video game)**
 
